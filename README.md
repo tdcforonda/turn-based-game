@@ -11,9 +11,14 @@ attacks on the player. The game has two versions: one made as a project for my O
 my spare time. The improved version includes: using a label to display all of the computer's attacks which were previously displayed in a message box, and 
 a rand() function for the block button for the computer to either completely miss, or hit but with lesser damage.
 
+**Requirements**
+1. Visual Studio Community 2019
+2. CLR .NET Framework should be installed
 
 **Installation**
 
 git clone https://github.com/tdcforonda/turn-based-game <br/>
 cd turn-based-game </br>
-start CPEProject.sln
+start CPEProject.sln </br>
+
+[press the run button to view GUI]
