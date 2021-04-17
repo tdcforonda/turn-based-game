@@ -12,8 +12,8 @@ my spare time. The improved version includes: using a label to display all of th
 a rand() function for the block button for the computer to either completely miss, or hit but with lesser damage.
 
 
-TO VIEW SOLUTION:
-1. Download the ZIP file by clicking the green button on the upper right saying "Code".
-2. A dropdown list should appear. Click "Download ZIP".
-3. Unzip the file and move it to Visual Studio's project folder. (C:\Users\[username]\source\repos)
-4. Run through Visual Studio.
+**Installation**
+
+git clone https://github.com/tdcforonda/turn-based-game
+cd turn-based-game
+start CPEProject.sln
