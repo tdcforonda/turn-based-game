@@ -17,8 +17,8 @@ a rand() function for the block button for the computer to either completely mis
 
 ## Installation
 ```
-git clone https://github.com/tdcforonda/turn-based-game <br/>
-cd turn-based-game </br>
-start CPEProject.sln </br>
+git clone https://github.com/tdcforonda/turn-based-game
+cd turn-based-game
+start CPEProject.sln
 ```
 **[press the run button to view GUI]**
